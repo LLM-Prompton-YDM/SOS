@@ -10,5 +10,6 @@
   * 중요점 : 새로나온것 / 지난것을 구분할 수 있어야 하고 업데이트는 주 1회정도 해주어야 함
 
 사용 API (LH 주택도시공사 API)
-- https://www.data.go.kr/data/15058476/openapi.do
-- https://www.data.go.kr/data/15059475/openapi.do
+- https://www.data.go.kr/data/15058476/openapi.do (상세정보-공급세대수 등)
+- https://www.data.go.kr/data/15059475/openapi.do (간략정보-공급세대수 등)
+- https://www.data.go.kr/data/15058530/openapi.do (페이지 URL 정보)
