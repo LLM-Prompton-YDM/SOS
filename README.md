@@ -13,3 +13,8 @@
 - https://www.data.go.kr/data/15058476/openapi.do (상세정보-공급세대수 등)
 - https://www.data.go.kr/data/15059475/openapi.do (간략정보-공급세대수 등)
 - https://www.data.go.kr/data/15058530/openapi.do (페이지 URL 정보)
+
+☆ API를 이용해 최근 정보에 맞도록 사용자에게 맞춤 추천해주기 ☆
+
+※ 제출 마감기한
+07/01 ~ 07/14 23:59
