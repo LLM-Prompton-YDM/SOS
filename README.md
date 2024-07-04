@@ -28,3 +28,7 @@
 
 ## [제출 마감기한]
 07/01 ~ 07/14 23:59
+
+## [참고자료]
+- 원티드 Laas 활용가이드 (https://laas.wanted.co.kr/docs/guide/api/api-lang)
+- Figma 프롬프트 데이터 설계 링크 (https://www.figma.com/board/pfqHRc2fZQ04SnamhHZf6I/SOS(Subscription-recOmmendation-System)?node-id=2-419&t=9v8XcJYbyYNaN3An-1)
