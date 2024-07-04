@@ -1,0 +1,44 @@
+{
+  "project_code": "PROMPTHON_PRJ_449",
+  "created": 1720076666193,
+  "id": "ncp-chatcmpl-sDndapdIviOkPmSiat24MoELg",
+  "name": "지역명 : 경기도\n공고유형 ",
+  "hash": "9e4eb8e7f619d63865316eab7d47d530d5baaa7ee0fc6687c78493d8868e3997",
+  "completion_mode": "chat",
+  "chat_log": [
+    {
+      "role": "user",
+      "content": "지역명 : 경기도\n공고유형 : 토지\n공고마감일 : 2024년 7월"
+    },
+    {
+      "role": "assistant",
+      "content": "아래는 찾고 싶은 분양 조건이야\n지역명 ${location}\n공고유형 ${category}\n공고마감일 ${date}\n\n분양 조건을 참고하여 아래의 한국토지주택공사 분양임대공고문에서 해당 조건에 맞는 공고문 3가지 찾아줘 \n{'공고게시일': '2024.07.03',\n  '공고세부유형명': '임대상가(공모ㆍ심사)',\n  '지역명': '강원특별자치도',\n  '공고상태': '공고중',\n  '공고유형명': '상가',\n  '공고명': '원주태장2지구 A-1BL(원주태장8단지) LH희망상가(공공지원형Ⅰ) 입점자 모집공고(선착순 수의계약)',\n  '공고상세 URL': 'https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300016285&ccrCnntSysDsCd=03&uppAisTpCd=22&aisTpCd=38&mi=1069',\n  '공고마감일': '2024.12.20'}\n\n {'공고게시일': '2024.07.02',\n  '공고세부유형명': '토지',\n  '지역명': '경기도',\n  '공고상태': '상담요청',\n  '공고유형명': '토지',\n  '공고명': '양주회천 점포겸용 단독주택용지 선착순 수의계약 공급공고',\n  '공고상세 URL': 'https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=BN-0006087&ccrCnntSysDsCd=01&uppAisTpCd=01&aisTpCd=01&mi=1062',\n  '공고마감일': '2025.07.01'}\n\n {'공고게시일': '2024.07.02',\n  '공고세부유형명': '임대상가(공모ㆍ심사)',\n  '지역명': '광주광역시',\n  '공고상태': '공고중',\n  '공고유형명': '상가',\n  '공고명': '광주선운2, 광주효천1LH1 LH희망상가 입점자 모집공고(공공지원형)',\n  '공고상세 URL': 'https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300016317&ccrCnntSysDsCd=03&uppAisTpCd=22&aisTpCd=38&mi=1069',\n  '공고마감일': '2024.07.11'}\n\n {'공고게시일': '2024.07.02',\n  '공고세부유형명': '토지',\n  '지역명': '경기도',\n  '공고상태': '상담요청',\n  '공고유형명': '토지',\n  '공고명': '고양장항 공공주택지구 공장이주대책용지 공급공고(3순위)',\n  '공고상세 URL': 'https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=BN-0006085&ccrCnntSysDsCd=01&uppAisTpCd=01&aisTpCd=01&mi=1062',\n  '공고마감일': '2024.08.07'}\n\n {'공고게시일': '2024.07.02',\n  '공고세부유형명': '행복주택',\n  '지역명': '경기도',\n  '공고상태': '공고중',\n  '공고유형명': '임대주택',\n  '공고명': '(행복주택)양주시 관내 중소기업체 근로자기숙사용 건설임대주택 기업체 모집 공고',\n  '공고상세 URL': 'https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300016318&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=10&mi=1026',\n  '공고마감일': '2024.07.15'}\n\n {'공고게시일': '2024.07.02',\n  '공고세부유형명': '국민임대',\n  '지역명': '경기도',\n  '공고상태': '공고중',\n  '공고유형명': '임대주택',\n  '공고명': '(국민임대)양주시 관내 중소기업체 근로자기숙사용 건설임대주택 기업체 모집 공고',\n  '공고상세 URL': 'https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300016320&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=07&mi=1026',\n  '공고마감일': '2024.07.15'}\n\n {'공고게시일': '2024.07.02',\n  '공고세부유형명': '토지',\n  '지역명': '경기도',\n  '공고상태': '상담요청',\n  '공고유형명': '토지',\n  '공고명': '성남신촌 생활대책용지 공급 공고',\n  '공고상세 URL': 'https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=BN-0006077&ccrCnntSysDsCd=01&uppAisTpCd=01&aisTpCd=01&mi=1062',\n  '공고마감일': '2024.09.10'}\n\n {'공고게시일': '2024.07.02',\n  '공고세부유형명': '토지',\n  '지역명': '울산광역시',\n  '공고상태': '공고중',\n  '공고유형명': '토지',\n  '공고명': '울산다운2 점포겸용 단독주택용지 재공급공고',\n  '공고상세 URL': 'https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=BN-0006072&ccrCnntSysDsCd=01&uppAisTpCd=01&aisTpCd=01&mi=1062',\n  '공고마감일': '2024.07.15'}\n\n {'공고게시일': '2024.07.02',\n  '공고세부유형명': '토지',\n  '지역명': '경기도',\n  '공고상태': '공고중',\n  '공고유형명': '토지',\n  '공고명': '[토지리턴제] 평택고덕국제화계획지구 주차장용지, 업무시설용지 공급 공고',\n  '공고상세 URL': 'https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=BN-0006067&ccrCnntSysDsCd=01&uppAisTpCd=01&aisTpCd=01&mi=1062',\n  '공고마감일': '2024.07.17'}\n\n {'공고게시일': '2024.07.01',\n  '공고세부유형명': '행복주택',\n  '지역명': '경상북도',\n  '공고상태': '접수중',\n  '공고유형명': '임대주택',\n  '공고명': '[정정공고][정정공고]경북북부권 행복주택 예비입주자 모집공고[안동운흥, 봉화해저, 문경흥덕]',\n  '공고상세 URL': 'https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300016323&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=10&mi=1026',\n  '공고마감일': '2024.07.04'}"
+    },
+    {
+      "role": "assistant",
+      "content": "조건에 맞는 공고문 3가지를 찾고 아래와 같은 양식에 맞춰서 추천해줘\n공고명 :\n지역명 :\n공고유형 :\n공급대상 :\n공고마감일 :\n모집 공고 url :"
+    },
+    {
+      "role": "user",
+      "content": "1. 공고명 : (행복주택)양주시 관내 중소기업체 근로자기숙사용 건설임대주택 기업체 모집 공고\n지역명 : 경기도\n공고유형 : 임대주택\n공급대상 : 양주시 관내 중소기업체 근로자기숙사용 건설임대주택\n공고마감일 : 2024.07.15\n모집 공고 url : https://apply.**.**.**/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300016318&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=10&mi=1026\n\n2. 공고명 : 양주회천 점포겸용 단독주택용지 선착순 수의계약 공급공고\n지역명 : 경기도\n공고유형 : 토지\n공급대상 : 양주회천 점포겸용 단독주택용지\n공고마감일 : 2025.07.01\n모집 공고 url : https://apply.**.**.**/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=BN-0006087&ccrCnntSysDsCd=01&uppAisTpCd=01&aisTpCd=01&mi=1062\n\n3. 공고명 : 고양장항 공공주택지구 공장이주대책용지 공급공고(3순위)\n지역명 : 경기도\n공고유형 : 토지\n공급대상 : 고양장항 공공주택지구 공장이주대책용지\n공고마감일 : 2024.08.07\n모집 공고 url : https://apply.**.**.**/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=BN-0006085&ccrCnntSysDsCd=01&uppAisTpCd=01&aisTpCd=01&mi=1062"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 1883,
+    "completion_tokens": 397,
+    "total_tokens": 2280
+  },
+  "model": "HCX-003",
+  "temperature": 0.7,
+  "top_p": 0,
+  "max_tokens": 512,
+  "presence_penalty": 0,
+  "frequency_penalty": 0,
+  "params": {
+    "date": "공고 마감 날짜",
+    "location": "공급 예정인 위치(도시군구)",
+    "category": "행복주택, 임대주택과 같은 공급 유형"
+  },
+  "date": "2024-07-04T07:04:26.193Z",
+  "service_type": "ncp"
+}
