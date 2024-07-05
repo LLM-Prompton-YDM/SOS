@@ -11,7 +11,7 @@ params ={'signguCode' : '140', 'numOfRows' : '10', 'pageNo' : '1' }
 all_page_df = pd.DataFrame()
 
 # 반복문을 통해 여러 페이지의 데이터 가져오기
-for page in range(1, 101):  # 100 페이지
+for page in range(1, 201):  # 200 페이지
     params['pageNo'] = str(page)
     response = requests.get(url, params=params, verify=False)
     contents = response.text
@@ -30,10 +30,8 @@ for page in range(1, 101):  # 100 페이지
                     'suplyPrvuseAr',
                     'houseTyNm',
                     'buldStleNm',
-                    'elvtrInstlAtNm',
                     'bassRentGtn',
-                    'bassMtRntchrg',
-                    'bassCnvrsGtnLmt']
+                    'bassMtRntchrg']
 
         extracted_data = []
         
@@ -57,10 +55,8 @@ all_page_df.columns = ['광역시도',
                     '공급 전용 면적', 
                     '주택 유형',
                     '건물 형태',
-                    '승강기 설치여부',
                     '기본 임대보증금',
-                    '기본 월임대료',
-                    '기본 전환보증금']
+                    '기본 월임대료']
 
 # csv 파일 저장
 all_page_df.to_csv('rentalhouse.csv', index=False)
